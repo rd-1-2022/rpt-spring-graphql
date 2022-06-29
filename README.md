@@ -13,7 +13,7 @@ in the `service` package that is responsible for creating an in-memory collectio
 coffees and the CRUD operations to support it. 
 - The `CoffeeController` is responsible for mapping methods to the GraphQL Schema.
 - The GraphQL Schema is located at `/src/main/resources/graphql/schema.graphqls`.
-- The GraphiQL UI has been enabled in `application.properties`
+- The GraphiQL UI has beenc enabled in `application.properties`
 
 ## Running the Application
 
