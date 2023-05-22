@@ -2,7 +2,7 @@
 
 This is a project for the [Spring CLI](https://spring-projects-experimental.github.io/spring-cli/spring-cli/index.html) 
 that will demonstrate the basics of building a GraphQL API using Spring for GraphQL. This
-project is built on Spring Boot 2.7.1 and Java 17.
+project is built on Spring Boot 3.1.0 and Java 17.
 
 ## About the Application
 
